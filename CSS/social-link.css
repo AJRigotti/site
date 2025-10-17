@@ -7,7 +7,7 @@ body
 {
     @font-face 
         font-family: inter;
-        src: url(/SOURCE/assets/fonts/Inter-VariableFont_slnt\,wght.ttf);
+        src: url(/SOURCE/assets/fonts/Inter.ttf);
     
     font-family: 'inter', Arial, Helvetica, sans-serif;
 }
@@ -70,4 +70,5 @@ a
     margin-left: 50px;
     margin-right: 50px;
     margin-top: 12px;
+
 }
